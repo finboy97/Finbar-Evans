@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Finbar's Website!
 
 You can use the [editor on GitHub](https://github.com/finboy97/Finbar-Evans/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
