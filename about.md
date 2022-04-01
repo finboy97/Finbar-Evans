@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: "page"
 title: About
 categories: jekyll
 permalink: /about/
