@@ -3,5 +3,6 @@ layout: post
 title: "Test blog entry"
 date: 01-04-2022
 categories: blogpost
+permalink: /2022-04-01-test-blog-entry/
 ---
 This is a test blogpost!
